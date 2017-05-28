@@ -79,4 +79,15 @@ button {
 .header {
   position: relative; }
 
+.footer {
+  background: #273b47; }
+
+.contacto img {
+  display: block; }
+.contacto strong {
+  display: block; }
+.contacto a {
+  color: #fff;
+  text-decoration: none; }
+
 /*# sourceMappingURL=Invie.css.map */
